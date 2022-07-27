@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/zandt-lavish#gh-light-mode-only" > <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /> </a>
 
-#
+
 ## 🔥 Student, Intern, & Aspiring Red Teamer
 - 🎓 <b>Undergrad</b> | Senior @ Cornell University
 - 💻 <b>Cybersecurity Intern</b> @ <a href="https://www.greatheart.io/">Greatheart</a>
@@ -43,7 +43,7 @@
 [//]: <img align="left" alt="raspberrypi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 --->
 
-#
+
 ## 🖨 Media Experience
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 
