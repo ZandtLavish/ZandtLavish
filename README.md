@@ -14,6 +14,11 @@
 - Studying for <b>CompTIA's CySA+ Exam</b>
 - HackTheBox / OverTheWire /
 - Insights / <a href=https://www.greatheart.io/insights><b>Weekly Insights</b></a> <br/><br/>
+
+<!---
+![](https://github.com/ZandtLavish/ZandtLavish/blob/main/media/blockchain-1.gif)
+--->
+
 * * *
 ## &nbsp;🛠&nbsp;&nbsp;&nbsp;Toolbox
 <img align="left" alt="" width="26px" src="./../burp-suite-pro.svg" style="padding-right:10px;" />
