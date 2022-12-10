@@ -87,7 +87,7 @@
 </i>
 
 
-## <h1> 🖨&nbsp; Media </h1>
+## <h1> 📷&nbsp; Media </h1>
 
 <img align="left" alt="Photoshop" width="26px" src="./src/svg/photoshop-plain.svg" style="padding-right:10px;" />
 
