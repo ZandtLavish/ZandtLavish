@@ -1,59 +1,116 @@
 # Zandt Lavish
 
-<a href="https://twitter.com/ZandtLavish" > <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" /> </a>
+## <h1> 🎓&nbsp; Backstory </h1>
 
-<a href="https://www.linkedin.com/in/zandt-lavish#gh-light-mode-only" > <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /> </a><br/>
-* * *
-## &nbsp;🔥&nbsp;&nbsp;&nbsp;Student, Intern, Aspiring Red Teamer
-- 🎓 <b>Undergrad</b> | Senior @ Cornell University
-- 💻 <b>Cybersecurity Intern</b> @ <a href="https://www.greatheart.io/">Greatheart</a>
-- 🚩 <b>Officer</b> for <a href="">Cornell Cybersecurity Club</a>
-- ⛓ <b>Blockchain Techie</b> <br/><br/>
+- <b>Student</b> &nbsp;|&nbsp; Cornell University </b>
+- <b>Officer</b> &nbsp;|&nbsp; Cornell Cybersecurity Club
+- <b>Summer 2022 Intern</b> &nbsp;|&nbsp; <a href="https://www.greatheart.io/"> Greatheart.io </a>
 
-## &nbsp;📚&nbsp;&nbsp;&nbsp;Learning Experience
-- Studying for <b>CompTIA's CySA+ Exam</b>
-- HackTheBox / OverTheWire /
-- Insights / <a href=https://www.greatheart.io/insights><b>Weekly Insights</b></a> <br/><br/>
 
-<!---
-![](https://github.com/ZandtLavish/ZandtLavish/blob/main/media/blockchain-1.gif)
---->
+## <h1> 🔥&nbsp; Interests </h1>
 
-* * *
-## &nbsp;🛠&nbsp;&nbsp;&nbsp;Toolbox
-<img align="left" alt="" width="26px" src="./../burp-suite-pro.svg" style="padding-right:10px;" />
+- <b>Cybersecurity</b>
+- <b>Blockchain Tech</b>
+- <b>Smart Contracts</b>
+- <b>ML</b>
 
-<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+## <h1> 📖&nbsp; Languages </h1>
 
-<img align="left" alt="vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="./src/svg/cplusplus-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="26px" src="./src/svg/bash-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="26px" src="./src/svg/solidity-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JS" width="26px" src="./src/svg/javascript-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TS" width="26px" src="./src/svg/typescript-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="./src/svg/css3-original.svg" style="padding-right:10px;" />
 
-<!---
-<img align="left" alt="raspberrypi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="./src/svg/html5-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="raspberrypi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
----> <br/><br/>
+<img align="left" alt="Java" width="26px" src="./src/svg/java-original.svg" style="padding-right:10px;" />
 
-## &nbsp;🎨&nbsp;&nbsp;&nbsp;Media Experience
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MD" width="26px" src="./src/svg/markdown-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+<br><br>
+<i>
+- Python
+- C++
+- Bash
+- Solidity
+- JavaScript
+- TypeScript
+- CSS
+- HTML
+- Java
+</i>
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="padding-right:10px;" />
+## <h1> 🛠&nbsp; Toolbox </h1>
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="BurpSuite" width="26px" src="./src/svg/burp-suite-professional-icon-clr-50.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Linux" width="26px" src="./src/svg/linux-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Vim" width="26px" src="./src/svg/vim-original.svg" style="padding-right:10px;" />
+
+<!-- <img align="left" alt="RaspberryPi" width="26px" src="./src/svg/raspberrypi-original.svg" style="padding-right:10px;" /> -->
+
+<img align="left" alt="Mocha" width="26px" src="./src/svg/numpy-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Mocha" width="26px" src="./src/svg/opencv-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="nodeJS" width="26px" src="./src/svg/nodejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="npm" width="26px" src="./src/svg/npm-original-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="React" width="26px" src="./src/svg/react-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Mocha" width="26px" src="./src/svg/mocha-plain.svg" style="padding-right:10px;" />
+
+<br><br>
+<i>
+- Burp Suite
+- Wireshark
+- Linux Systems
+- Hardhat
+- NumPy
+- OpenCV
+- Node.js / npm
+- React
+- Mocha / Chai
+</i>
+
+
+## <h1> 🖨&nbsp; Media </h1>
+
+<img align="left" alt="Photoshop" width="26px" src="./src/svg/photoshop-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Illustrator" width="26px" src="./src/svg/illustrator-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="PremierPro" width="26px" src="./src/svg/premierepro-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="AfterEffects" width="26px" src="./src/svg/aftereffects-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Blender" width="26px" src="./src/svg/blender-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Processing" width="26px" src="./src/svg/processing-plain.svg" style="padding-right:10px;" />
+
+<br><br>
+<i>
+- Photoshop
+- Illustrator
+- Premiere Pro
+- After Effects
+- Media Encoder
+- Audition
+- InDesign
+- Lightroom
+- Blender
+- Processing
+</i>
