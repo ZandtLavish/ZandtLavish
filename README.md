@@ -1,21 +1,19 @@
 # Zandt Lavish
 
-# 🔥&nbsp; Bio
-**Unboxed AI + Cybersecurity Analyst | Ex-@cornell Artist**
+# Bio
+**AI + Cybersecurity + Artist**
 - Redteamer **@Zyston LLC**
 - Cornell Cybersecurity Club Alumn
 
 &nbsp;
 
 
-# 💻&nbsp; Experience
+# Experience
 <img align="left" alt="Python" width="26px" src="./src/svg/python-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="C++" width="26px" src="./src/svg/cplusplus-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Bash" width="26px" src="./src/svg/bash-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Solidity" width="26px" src="./src/svg/solidity-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JS" width="26px" src="./src/svg/javascript-original.svg" style="padding-right:10px;" />
 
@@ -27,13 +25,13 @@
 
 <img align="left" alt="Java" width="26px" src="./src/svg/java-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="MD" width="26px" src="./src/svg/markdown-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="26px" src="./src/svg/solidity-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="PyTorch" width="26px" src="./src/svg/pytorch-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="React" width="26px" src="./src/svg/react-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="TF" width="26px" src="./src/svg/tensorflow-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="React" width="26px" src="./src/svg/react-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="numpy" width="26px" src="./src/svg/numpy-original.svg" style="padding-right:10px;" />
 
@@ -57,7 +55,7 @@
 
 &nbsp;
 
-# 🧰&nbsp; Toolbox
+# Toolbox
 - Web App Pentesting
 - Network Pentesting
 - Linux Systems
