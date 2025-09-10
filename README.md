@@ -1,66 +1,37 @@
 # Zandt Lavish
 
-# Bio
-**AI + Cybersecurity + Artist**
-- Redteamer **@Zyston LLC**
-- Cornell Cybersecurity Club Alumn
+I'm a pentester interested in low-level computer science and complex systems. You'll see these themes throughout most of my projects:
+- ***OffSec***
+- ***Complex Systems Analysis***
+- ***Bioinformatics***
 
-&nbsp;
-
+---
 
 # Experience
-<img align="left" alt="Python" width="26px" src="./src/svg/python-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="C++" width="26px" src="./src/svg/cplusplus-original.svg" style="padding-right:10px;" />
+### Pentesting
+- External
+- Internal
+- Web App
+- Mobile App
+- Mobile Infrastructure
+- LLM
+- Cloud (AWS, Azure)
+- Attack Surface Assessments
+- Cloud Compliance Assessments (CCA)
 
-<img align="left" alt="Bash" width="26px" src="./src/svg/bash-original.svg" style="padding-right:10px;" />
+### Dev
+- Docker engine / desktop / compose
+- Conda
+- PyTorch
+- JupyterLab
+- Solidity (smart contract dev)
 
-<img align="left" alt="JS" width="26px" src="./src/svg/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="TS" width="26px" src="./src/svg/typescript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="./src/svg/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="HTML5" width="26px" src="./src/svg/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Java" width="26px" src="./src/svg/java-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Solidity" width="26px" src="./src/svg/solidity-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="PyTorch" width="26px" src="./src/svg/pytorch-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="TF" width="26px" src="./src/svg/tensorflow-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="React" width="26px" src="./src/svg/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="numpy" width="26px" src="./src/svg/numpy-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="opencv" width="26px" src="./src/svg/opencv-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="npm" width="26px" src="./src/svg/npm-original-wordmark.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Nodejs" width="26px" src="./src/svg/nodejs-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Mocha" width="26px" src="./src/svg/mocha-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Linux" width="26px" src="./src/svg/linux-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="BurpSuite" width="26px" src="./src/svg/burp-suite-professional-icon-clr-50.svg" style="padding-right:10px;" />
-
-<img align="left" alt="RP" width="26px" src="./src/svg/raspberrypi-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="processing" width="26px" src="./src/svg/processing-plain.svg" style="padding-right:10px;" />
-
-<br><br>
-
-&nbsp;
-
-# Toolbox
-- Web App Pentesting
-- Network Pentesting
-- Linux Systems
-- Pentesting Tool Dev
-- Bash Scripting
-- Web Dev
-- Blockchain Tech
-- Smart Contracts
+### Languages (Mainly)
+- Python
+- Go
+- C++
+- C
+- Java
+- JavaScript
+- Solidity
